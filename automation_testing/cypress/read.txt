@@ -1,0 +1,8 @@
+//please run the execution by
+
+npx cypress run
+
+//please run the execution if need to be headed and chrome
+
+npx cypress run --headed --browser chrome
+
